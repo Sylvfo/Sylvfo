@@ -11,9 +11,10 @@ Currently studying at 42 Lausanne
 ## Projects and technical skills
 
 ### webserv (pending)
-*Program that reads a file containing terrain data and renders a 3D wireframe representation of that landscape in a graphical window on Linux*
+*A lightweight HTTP server built from scratch, handling multiple clients concurrently and supporting basic HTTP/1.1 features (GET, POST, DELETE). Includes configuration parsing, socket programming, and CGI handling.*
 
-Programming language C, minilibX, 
+**Languages & Tools:** C++, Sockets, Poll/Select, Networking, HTTP Protocol, Parsing, Multithreading, File I/O
+**Skills:** Network programming, concurrency management, protocol implementation, configuration design
 
 ### [miniRT]()
 *Program that reads a file containing terrain data and renders a 3D wireframe representation of that landscape in a graphical window on Linux*
