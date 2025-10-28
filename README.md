@@ -8,6 +8,9 @@ Currently studying at 42 Lausanne
 
 I enjoy finding solutions, thinking through algorithms, creating project architecture and building databases. 
 
+![42_logo](https://github.com/user-attachments/assets/f0dc5fe5-6978-4923-a1e2-aae2f326afdc)
+
+
 <img width="3193" height="1801" alt="image" src="https://github.com/user-attachments/assets/5580c250-7ac6-4e81-88b1-125440f1ec86" />
 
 ## Projects and technical skills
@@ -54,7 +57,7 @@ Currently in progress — updates coming soon
 
 **Skills:** String formatting, memory management, modular programming, variadic arguments
 
-### [libft](https://github.com/Sylvfo/FdF_final.git)
+### [libft]()
 *Custom implementation of the C standard library functions (string, memory, and list manipulation). Serves as the foundation for all other 42 projects*
 
 **Languages & Tools:** C
