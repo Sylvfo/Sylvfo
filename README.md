@@ -2,16 +2,17 @@
 
 I'm Sylvie, a passionnate software dev living in Switzerland!
 
-Having spent years as an interior designer, I've now transitioned into the thrilling, technical, and surprisingly creative world of coding.
+Having spent years as an interior designer, I've now transitioned into the thrilling, technical and surprisingly creative world of coding.
 
 Currently studying at 42 Lausanne
 
-   \_0_/
-     _¡!_
-   |        |
-
+## Technical skills
 languages:
 C, C++, html
+
+## General skills
+
+## This GitHub
 
 <img width="3193" height="1801" alt="image" src="https://github.com/user-attachments/assets/5580c250-7ac6-4e81-88b1-125440f1ec86" />
 
