@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm Sylvie, a passionnate software dev
+
+Currently studying at 42 Lausanne
+
+languages:
+C, C++, html
+
 <!--
 **Sylvfo/Sylvfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
