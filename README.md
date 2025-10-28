@@ -8,7 +8,8 @@ Currently studying at 42 Lausanne
 
 I enjoy finding solutions, thinking through algorithms, creating project architecture and building databases.
 
-[42_logo](https://github.com/user-attachments/assets/fab2516c-e403-41fc-8dd3-b2685ecc4de5)
+<img width="768" height="433" alt="image" src="https://github.com/user-attachments/assets/e9c7ff3a-7adf-43ab-a86b-3d1caf116740" />
+
 
 
 
