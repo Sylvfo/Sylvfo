@@ -15,6 +15,9 @@ I love nature, friends, discover new stuff!
 I like to play football, I love to sing!
 Living in a multi culti environment, I can speak fluently 4 languages. French, English, German and Italian. In case, I can also speak some Spanish. 
 
+
+<img width="3193" height="1801" alt="image" src="https://github.com/user-attachments/assets/5580c250-7ac6-4e81-88b1-125440f1ec86" />
+
 <!--
 **Sylvfo/Sylvfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
