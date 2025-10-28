@@ -8,6 +8,8 @@ Algo
 
 Currently studying at 42 Lausanne
 
+<img width="3193" height="1801" alt="image" src="https://github.com/user-attachments/assets/5580c250-7ac6-4e81-88b1-125440f1ec86" />
+
 ## Projects and technical skills
 
 ### webserv (pending)
@@ -68,9 +70,6 @@ Working effectively various disciplines teams and managing deadlines
 
 Client-oriented approach; leveraging existing tools and building custom solutions when required
 
-## This GitHub
-
-<img width="3193" height="1801" alt="image" src="https://github.com/user-attachments/assets/5580c250-7ac6-4e81-88b1-125440f1ec86" />
 
 ## About me
 I enjoy being a human on this planet! 
