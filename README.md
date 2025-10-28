@@ -53,10 +53,10 @@ languages:
 C, C++, html
 
 ## General skills
-From creative concepts to technical implementation
-Delivering innovative solutions while respecting architectural and budgetary constraints
-Working effectively various disciplines teams and managing deadlines
-Client-oriented approach; leveraging existing tools and building custom solutions when required
+From creative concepts to technical implementation <b>
+Delivering innovative solutions while respecting architectural and budgetary constraints <b>
+Working effectively various disciplines teams and managing deadlines <b>
+Client-oriented approach; leveraging existing tools and building custom solutions when required <b>
 
 ## This GitHub
 
