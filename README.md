@@ -4,11 +4,11 @@ I'm Sylvie, a passionnate software dev living in Switzerland!
 
 Having spent years as an interior designer, I've now transitioned into the thrilling, technical and surprisingly creative world of coding.
 
-Currently studying at 42 Lausanne 
+Currently studying at 42 Lausanne <img width="76" height="43" alt="image" src="https://github.com/user-attachments/assets/e9c7ff3a-7adf-43ab-a86b-3d1caf116740" />
 
 I enjoy finding solutions, thinking through algorithms, creating project architecture and building databases.
 
-<img width="768" height="433" alt="image" src="https://github.com/user-attachments/assets/e9c7ff3a-7adf-43ab-a86b-3d1caf116740" />
+
 
 
 
