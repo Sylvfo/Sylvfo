@@ -9,7 +9,9 @@ Currently studying at 42 Lausanne
 ## Projects and technical skills
 ### [FDF](https://github.com/Sylvfo/FdF_final.git)
 *Program that reads a file containing terrain data and renders a 3D wireframe representation of that landscape in a graphical window on Linux*
-<br>skills: Programming language C, minilibX, 
+
+Programming language C, minilibX, 
+
 
 languages:
 C, C++, html
