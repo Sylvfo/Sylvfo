@@ -6,9 +6,10 @@ Having spent years as an interior designer, I've now transitioned into the thril
 
 Currently studying at 42 Lausanne 
 
-I enjoy finding solutions, thinking through algorithms, creating project architecture and building databases. 
+I enjoy finding solutions, thinking through algorithms, creating project architecture and building databases.
 
-![42_logo](https://github.com/user-attachments/assets/f0dc5fe5-6978-4923-a1e2-aae2f326afdc)
+[42_logo](https://github.com/user-attachments/assets/fab2516c-e403-41fc-8dd3-b2685ecc4de5)
+
 
 
 <img width="3193" height="1801" alt="image" src="https://github.com/user-attachments/assets/5580c250-7ac6-4e81-88b1-125440f1ec86" />
