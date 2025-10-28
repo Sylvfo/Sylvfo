@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 I'm Sylvie, a passionnate software dev living in Switzerland!
 
@@ -11,7 +11,7 @@ C, C++, html
 
 <img width="3193" height="1801" alt="image" src="https://github.com/user-attachments/assets/5580c250-7ac6-4e81-88b1-125440f1ec86" />
 
-# About me
+## About me
 I enjoy being a human on this planet!
 I love nature, friends, discover new stuff! 
 I like to play football, I love to sing!
