@@ -17,6 +17,7 @@ I enjoy finding solutions, thinking through algorithms, creating project archite
 
 ## Projects and technical skills
 Currently in progress — updates coming soon
+
 **Languages & Tools:** C, C++, Software Architecture, Data Structure,  Memory Management, HTML
 
 ### webserv (pending)
