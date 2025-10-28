@@ -6,10 +6,8 @@ Having spent years as an interior designer, I've now transitioned into the thril
 
 Currently studying at 42 Lausanne
 
-## Technical skills
-###FDF
-*descr*
-skills
+## Projects and technical skills
+###FDF <br> *descr* <br>skills
 
 languages:
 C, C++, html
