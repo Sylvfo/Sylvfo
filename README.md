@@ -6,12 +6,12 @@ Having spent years as an interior designer, I've now transitioned into the thril
 
 Currently studying at 42 Lausanne 
 
-I enjoy finding solutions, thinking through algorithms, creating project architecture, and building databases. 
+I enjoy finding solutions, thinking through algorithms, creating project architecture and building databases. 
 
 <img width="3193" height="1801" alt="image" src="https://github.com/user-attachments/assets/5580c250-7ac6-4e81-88b1-125440f1ec86" />
 
 ## Projects and technical skills
-
+Currently in progress — updates coming soon
 ### webserv (pending)
 *A lightweight HTTP server built from scratch, handling multiple clients concurrently and supporting basic HTTP/1.1 features (GET, POST, DELETE). Includes configuration parsing, socket programming, and CGI handling.*
 
