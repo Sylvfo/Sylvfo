@@ -13,45 +13,51 @@ Currently studying at 42 Lausanne
 ### webserv (pending)
 *A lightweight HTTP server built from scratch, handling multiple clients concurrently and supporting basic HTTP/1.1 features (GET, POST, DELETE). Includes configuration parsing, socket programming, and CGI handling.*
 
-**Languages & Tools:** C++, Sockets, Poll/Select, Networking, HTTP Protocol, Parsing, Multithreading, File I/O
+**Languages & Tools:** C++, Sockets, Poll/Select, Networking, HTTP Protocol, Parsing, Multithreading, File I/O, html
 
 **Skills:**  Network programming, concurrency management, protocol implementation, configuration design
 
 ### [miniRT]()
 *Program that reads a file containing terrain data and renders a 3D wireframe representation of that landscape in a graphical window on Linux*
 
-**Languages & Tools:** MiniLibX, Math (vectors, matrices, geometry), Parsing, Data structure
+**Languages & Tools:** MiniLibX, Math (vectors, matrices, geometry), Parsing, Data structure, Optimisation
 
 **Skills:** 3D graphics, linear algebra, algorithmic optimization, parsing custom scene files
 
 ### [philo]()
-*Program that reads a file containing terrain data and renders a 3D wireframe representation of that landscape in a graphical window on Linux*
+*Simulation of the classical Dining Philosophers problem using threads and mutexes to prevent deadlocks and race conditions*
 
-Programming language C, minilibX, 
+**Languages & Tools:** C, Pthreads (mutex, thread management)
+
+**Skills:** Multithreading, synchronization, concurrency control, debugging timing issues
 
 ### [fdf](https://github.com/Sylvfo/FdF_final.git)
 *Program that reads a file containing terrain data and renders a 3D wireframe representation of that landscape in a graphical window on Linux*
 
-Programming language C, minilibX, 
+**Languages & Tools:** C, MiniLibX, Graphics rendering, Coordinate transformations, Linked lists
+
+**Skills:** 2D/3D graphics, geometry, event handling, algorithm design
 
 ### [push_swap]()
-*Program that reads a file containing terrain data and renders a 3D wireframe representation of that landscape in a graphical window on Linux*
+*Sorting algorithm project: implement the most efficient sequence of stack operations to sort integers. Compares algorithmic performance and complexity*
 
-Programming language C, minilibX, 
+**Languages & Tools:** C, Data structures (stacks, linked lists)
+
+**Skills:** Algorithm optimization, complexity analysis, problem solving, debugging
 
 ### [ft_printf]()
-*Program that reads a file containing terrain data and renders a 3D wireframe representation of that landscape in a graphical window on Linux*
+*Reimplementation of the standard C printf() function, supporting formatted output with flags, field width, precision, and conversions*
 
-Programming language C, minilibX, 
+**Languages & Tools:** C, Variadic functions
+
+**Skills:** String formatting, memory management, modular programming, variadic arguments
 
 ### [libft](https://github.com/Sylvfo/FdF_final.git)
-*Program that reads a file containing terrain data and renders a 3D wireframe representation of that landscape in a graphical window on Linux*
+*Custom implementation of the C standard library functions (string, memory, and list manipulation). Serves as the foundation for all other 42 projects*
 
-Programming language C, minilibX, 
+**Languages & Tools:** C
 
-
-languages:
-C, C++, html
+**Skills:** Low-level programming, memory handling, pointer manipulation, modular design
 
 ## General skills
 From creative concepts to technical implementation
