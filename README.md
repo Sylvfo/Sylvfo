@@ -18,7 +18,7 @@ I enjoy finding solutions, thinking through algorithms, creating project archite
 ## Projects and technical skills
 Currently in progress — updates coming soon
 
-**Languages & Tools:** C, C++, Software Architecture, Data Structure,  Memory Management, HTML
+C, C++, Software Architecture, Data Structure,  Memory Management, Process Management, Multi-threading, Graphic, math, HTML
 
 ### webserv (pending)
 *A lightweight HTTP server built from scratch, handling multiple clients concurrently and supporting basic HTTP/1.1 features (GET, POST, DELETE). Includes configuration parsing, socket programming, and CGI handling.*
