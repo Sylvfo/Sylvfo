@@ -22,7 +22,7 @@ Currently studying at 42 Lausanne
 
 **Languages & Tools:** MiniLibX, Math (vectors, matrices, geometry), Parsing, Data structure
 
-**Skills:**  3D graphics, linear algebra, algorithmic optimization, parsing custom scene files
+**Skills:** 3D graphics, linear algebra, algorithmic optimization, parsing custom scene files
 
 ### [philo]()
 *Program that reads a file containing terrain data and renders a 3D wireframe representation of that landscape in a graphical window on Linux*
