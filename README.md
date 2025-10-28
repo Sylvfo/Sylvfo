@@ -7,10 +7,10 @@ Having spent years as an interior designer, I've now transitioned into the thril
 Currently studying at 42 Lausanne
 
 ## Projects and technical skills
-### FDF 
+### [FDF](https://github.com/Sylvfo/FdF_final.git)
 *descr* Linux
 <br>skills
-<br>[FDF](https://github.com/Sylvfo/FdF_final.git)
+<br>[Repo git](https://github.com/Sylvfo/FdF_final.git)
 
 languages:
 C, C++, html
