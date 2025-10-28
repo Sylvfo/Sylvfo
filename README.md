@@ -8,7 +8,8 @@ Currently studying at 42 Lausanne
 
 ## Projects and technical skills
 ### FDF 
-<br> *descr* <br>skills
+*descr* Linux <br>skills
+[FDF](git@github.com:Sylvfo/FdF_final.git)
 
 languages:
 C, C++, html
