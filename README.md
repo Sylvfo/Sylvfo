@@ -1,11 +1,19 @@
 ## Hi there 👋
 
-I'm Sylvie, a passionnate software dev
+I'm Sylvie, a passionnate software dev living in Switzerland!
+
+Having spent years as an interior designer, I've now transitioned into the thrilling, technical, and surprisingly creative world of coding.
 
 Currently studying at 42 Lausanne
 
 languages:
 C, C++, html
+
+About me
+I enjoy being a human on this planet!
+I love nature, friends, discover new stuff! 
+I like to play football, I love to sing!
+Living in a multi culti environment, I can speak fluently 4 languages. French, English, German and Italian. In case, I can also speak some Spanish. 
 
 <!--
 **Sylvfo/Sylvfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
