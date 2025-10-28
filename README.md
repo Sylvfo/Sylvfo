@@ -1,6 +1,6 @@
 ### Hi there 🙃
-
-I'm Sylvie, a passionnate software dev living in Switzerland!
+ Software Programming & Development
+I'm Sylvie, a passionnate Project-Based Software Developer living in Switzerland!
 
 Having spent years as an interior designer, I've now transitioned into the thrilling, technical and surprisingly creative world of coding.
 
