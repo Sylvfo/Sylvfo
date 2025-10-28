@@ -21,7 +21,8 @@ Currently studying at 42 Lausanne
 *Program that reads a file containing terrain data and renders a 3D wireframe representation of that landscape in a graphical window on Linux*
 
 **Languages & Tools:** MiniLibX, Math (vectors, matrices, geometry), Parsing, Data structure
-<b>**Skills:** 3D graphics, linear algebra, algorithmic optimization, parsing custom scene files
+
+**Skills:**  3D graphics, linear algebra, algorithmic optimization, parsing custom scene files
 
 ### [philo]()
 *Program that reads a file containing terrain data and renders a 3D wireframe representation of that landscape in a graphical window on Linux*
@@ -53,10 +54,13 @@ languages:
 C, C++, html
 
 ## General skills
-From creative concepts to technical implementation <b>
-Delivering innovative solutions while respecting architectural and budgetary constraints <b>
-Working effectively various disciplines teams and managing deadlines <b>
-Client-oriented approach; leveraging existing tools and building custom solutions when required <b>
+From creative concepts to technical implementation
+
+Delivering innovative solutions while respecting architectural and budgetary constraints
+
+Working effectively various disciplines teams and managing deadlines
+
+Client-oriented approach; leveraging existing tools and building custom solutions when required
 
 ## This GitHub
 
