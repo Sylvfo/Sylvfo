@@ -4,10 +4,43 @@ I'm Sylvie, a passionnate software dev living in Switzerland!
 
 Having spent years as an interior designer, I've now transitioned into the thrilling, technical and surprisingly creative world of coding.
 
+Algo
+
 Currently studying at 42 Lausanne
 
 ## Projects and technical skills
-### [FDF](https://github.com/Sylvfo/FdF_final.git)
+
+### webserv (pending)
+*Program that reads a file containing terrain data and renders a 3D wireframe representation of that landscape in a graphical window on Linux*
+
+Programming language C, minilibX, 
+
+### [miniRT]()
+*Program that reads a file containing terrain data and renders a 3D wireframe representation of that landscape in a graphical window on Linux*
+
+Programming language C, minilibX, 
+
+### [philo]()
+*Program that reads a file containing terrain data and renders a 3D wireframe representation of that landscape in a graphical window on Linux*
+
+Programming language C, minilibX, 
+
+### [fdf](https://github.com/Sylvfo/FdF_final.git)
+*Program that reads a file containing terrain data and renders a 3D wireframe representation of that landscape in a graphical window on Linux*
+
+Programming language C, minilibX, 
+
+### [push_swap]()
+*Program that reads a file containing terrain data and renders a 3D wireframe representation of that landscape in a graphical window on Linux*
+
+Programming language C, minilibX, 
+
+### [ft_printf]()
+*Program that reads a file containing terrain data and renders a 3D wireframe representation of that landscape in a graphical window on Linux*
+
+Programming language C, minilibX, 
+
+### [libft](https://github.com/Sylvfo/FdF_final.git)
 *Program that reads a file containing terrain data and renders a 3D wireframe representation of that landscape in a graphical window on Linux*
 
 Programming language C, minilibX, 
