@@ -35,6 +35,7 @@ C, C++, Software Architecture, Data Structure,  Memory Management, Process Manag
 **Languages & Tools:** MiniLibX, Math (vectors, matrices, geometry), Parsing, Data structure, Optimisation
 
 **Skills:** 3D graphics, linear algebra, algorithmic optimization, parsing custom scene files
+-->
 
 ### [CPP09](https://github.com/Sylvfo/CPP09.git)
 *A collection of C++ exercises exploring advanced data manipulation and algorithmic logic.*
