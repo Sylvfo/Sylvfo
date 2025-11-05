@@ -48,6 +48,17 @@ C, C++, Software Architecture, Data Structure,  Memory Management, Process Manag
 
 **Skills:** Algorithm design and optimization, data parsing, container manipulation, performance benchmarking, time complexity analysis
 
+<img width="211" height="184" alt="image" src="https://github.com/user-attachments/assets/fdaddf2d-088d-4fd3-98bc-71a74b7096f8" />
+
+### [Vintage Phonebook](https://github.com/Sylvfo/vintage_Phonebook)
+*A simple command-line contact manager implemented in C++, introducing classes, encapsulation, and basic I/O handling.*
+
+**Languages & Tools:** C++98, Classes, I/O streams, std::string
+
+**Skills:** Object-oriented design, encapsulation, input validation, data storage, formatted output
+
+<img width="177" height="150" alt="image" src="https://github.com/user-attachments/assets/befa07ce-437e-4601-8878-cf168edaccec" />
+
 <!--
 ### [philo]()
 *Simulation of the classical Dining Philosophers problem using threads and mutexes to prevent deadlocks and race conditions*
