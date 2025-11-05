@@ -63,8 +63,7 @@ C, C++, Software Architecture, Data Structure,  Memory Management, Process Manag
 
 <img width="177" height="150" alt="image" src="https://github.com/user-attachments/assets/befa07ce-437e-4601-8878-cf168edaccec" />
 
-
-### [minishell]()
+### [minishell](https://github.com/Sylvfo/minishell_final)
 *A simplified UNIX shell that replicates the behavior of bash POSIX, allowing command execution, pipes, redirections, and environment management.*
 
 **Languages & Tools:** C, System calls (fork, execve, pipe, dup2), Signals, File descriptors, Parsing, Memory management
