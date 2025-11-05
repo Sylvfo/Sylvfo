@@ -54,7 +54,8 @@ C, C++, Software Architecture, Data Structure,  Memory Management, Process Manag
 **Languages & Tools:** C++98, Classes, I/O streams, std::string
 
 **Skills:** Object-oriented design, encapsulation, input validation, data storage, formatted output
-<img width="211" height="184" alt="image" src="https://github.com/user-attachments/assets/fdaddf2d-088d-4fd3-98bc-71a74b7096f8" />
+
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/fdaddf2d-088d-4fd3-98bc-71a74b7096f8" />
 
 <!--
 ### [philo]()
@@ -72,7 +73,7 @@ C, C++, Software Architecture, Data Structure,  Memory Management, Process Manag
 
 **Skills:** 2D/3D graphics, geometry, event handling, algorithm design
 
-<img width="177" height="150" alt="image" src="https://github.com/user-attachments/assets/befa07ce-437e-4601-8878-cf168edaccec" />
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/befa07ce-437e-4601-8878-cf168edaccec" />
 
 ### [minishell](https://github.com/Sylvfo/minishell_final)
 *A simplified UNIX shell that replicates the behavior of bash POSIX, allowing command execution, pipes, redirections, and environment management.*
