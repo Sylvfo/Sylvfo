@@ -28,6 +28,7 @@ C, C++, Software Architecture, Data Structure,  Memory Management, Process Manag
 
 **Skills:**  Network programming, concurrency management, protocol implementation, configuration design
 
+<!--
 ### [miniRT]()
 *Program that reads a file containing terrain data and renders a 3D wireframe representation of that landscape in a graphical window on Linux*
 
@@ -46,13 +47,14 @@ C, C++, Software Architecture, Data Structure,  Memory Management, Process Manag
 
 **Skills:** Algorithm design and optimization, data parsing, container manipulation, performance benchmarking, time complexity analysis
 
-
+<!--
 ### [philo]()
 *Simulation of the classical Dining Philosophers problem using threads and mutexes to prevent deadlocks and race conditions*
 
 **Languages & Tools:** C, Pthreads (mutex, thread management)
 
 **Skills:** Multithreading, synchronization, concurrency control, debugging timing issues
+-->
 
 ### [fdf](https://github.com/Sylvfo/FDF_linux.git)
 *Program that reads a file containing terrain data and renders a 3D wireframe representation of that landscape in a graphical window on Linux*
@@ -70,6 +72,7 @@ C, C++, Software Architecture, Data Structure,  Memory Management, Process Manag
 
 **Skills:**  Shell design, process control, inter-process communication, signal handling, dynamic memory management, parsing user input
 
+<!--
 ### [push_swap]()
 *Sorting algorithm project: implement the most efficient sequence of stack operations to sort integers. Compares algorithmic performance and complexity*
 
@@ -90,6 +93,7 @@ C, C++, Software Architecture, Data Structure,  Memory Management, Process Manag
 **Languages & Tools:** C
 
 **Skills:** Low-level programming, memory handling, pointer manipulation, modular design
+-->
 
 ## General skills
 From creative concepts to technical implementation
@@ -99,7 +103,6 @@ Delivering innovative solutions while respecting architectural and budgetary con
 Working effectively various disciplines teams and managing deadlines
 
 Client-oriented approach; leveraging existing tools and building custom solutions when required
-
 
 ## About me
 I enjoy being a human on this planet! 
