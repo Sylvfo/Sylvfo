@@ -14,6 +14,7 @@ I enjoy finding solutions, thinking through algorithms, creating project archite
 
 
 <img width="3193" height="1801" alt="image" src="https://github.com/user-attachments/assets/5580c250-7ac6-4e81-88b1-125440f1ec86" />
+*image from my project miniRT
 
 ## Projects and technical skills
 Currently in progress — updates coming soon
@@ -99,3 +100,4 @@ Living in a multi culti environment, I can speak fluently 4 languages. French, E
 
 
 <img width="3197" height="1806" alt="image2" src="https://github.com/user-attachments/assets/26acd97b-2b03-4d38-bddf-0b0ac5d6ef97" />
+*image from my project miniRT
