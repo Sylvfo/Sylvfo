@@ -61,6 +61,13 @@ C, C++, Software Architecture, Data Structure,  Memory Management, Process Manag
 
 **Skills:** 2D/3D graphics, geometry, event handling, algorithm design
 
+### [minishell]()
+*A simplified UNIX shell that replicates the behavior of bash POSIX, allowing command execution, pipes, redirections, and environment management.*
+
+**Languages & Tools:** C, System calls (fork, execve, pipe, dup2), Signals, File descriptors, Parsing, Memory management
+
+**Skills:**  Shell design, process control, inter-process communication, signal handling, dynamic memory management, parsing user input
+
 ### [push_swap]()
 *Sorting algorithm project: implement the most efficient sequence of stack operations to sort integers. Compares algorithmic performance and complexity*
 
