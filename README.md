@@ -61,7 +61,8 @@ C, C++, Software Architecture, Data Structure,  Memory Management, Process Manag
 
 **Skills:** 2D/3D graphics, geometry, event handling, algorithm design
 
-<img width="177" height="150" alt="image" src="https://github.com/user-attachments/assets/366b2b8d-4e36-4ad7-99be-47d1e7039ff1" />
+<img width="177" height="150" alt="image" src="https://github.com/user-attachments/assets/befa07ce-437e-4601-8878-cf168edaccec" />
+
 
 ### [minishell]()
 *A simplified UNIX shell that replicates the behavior of bash POSIX, allowing command execution, pipes, redirections, and environment management.*
