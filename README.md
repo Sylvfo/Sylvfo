@@ -64,6 +64,9 @@ C, C++, Software Architecture, Data Structure,  Memory Management, Process Manag
 
 **Skills:** Multithreading, synchronization, concurrency control, debugging timing issues
 
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/6c03d1f7-ac70-4d6f-ad83-54db9643a042" />
+
+
 ### [fdf](https://github.com/Sylvfo/FDF_linux.git)
 *Program that reads a file containing terrain data and renders a 3D wireframe representation of that landscape in a graphical window on Linux*
 
