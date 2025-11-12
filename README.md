@@ -57,14 +57,12 @@ C, C++, Software Architecture, Data Structure,  Memory Management, Process Manag
 
 <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/fdaddf2d-088d-4fd3-98bc-71a74b7096f8" />
 
-<!--
-### [philo]()
+### [philo](https://github.com/Sylvfo/Philo)
 *Simulation of the classical Dining Philosophers problem using threads and mutexes to prevent deadlocks and race conditions*
 
 **Languages & Tools:** C, Pthreads (mutex, thread management)
 
 **Skills:** Multithreading, synchronization, concurrency control, debugging timing issues
--->
 
 ### [fdf](https://github.com/Sylvfo/FDF_linux.git)
 *Program that reads a file containing terrain data and renders a 3D wireframe representation of that landscape in a graphical window on Linux*
