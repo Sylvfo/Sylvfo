@@ -34,7 +34,7 @@ C, C++, Software Architecture, Data Structure,  Memory Management, Process Manag
 
 ### [CPP09](https://github.com/Sylvfo/CPP09.git)
 
-[<img width="298" height="277" alt="image" src="https://github.com/user-attachments/assets/60c91e49-43bc-4d57-82fe-f452bd9fa869" align="left" />](https://github.com/Sylvfo/CPP09.git)
+[<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/60c91e49-43bc-4d57-82fe-f452bd9fa869" align="left" />](https://github.com/Sylvfo/CPP09.git)
 
 *A collection of C++ exercises exploring advanced data manipulation and algorithmic logic.*
 
