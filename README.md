@@ -33,15 +33,16 @@ C, C++, Software Architecture, Data Structure,  Memory Management, Process Manag
 -->
 
 ### [CPP09](https://github.com/Sylvfo/CPP09.git)
-*A collection of C++ exercises exploring advanced data manipulation and algorithmic logic.*
 
-- **ex00 – Bitcoin Exchange:** Parse and evaluate Bitcoin values using historical exchange data.  
-- **ex01 – RPN Calculator:** Evaluate mathematical expressions written in Reverse Polish Notation using stack logic.  
-- **ex02 – PmergeMe:** Implement the Ford–Johnson merge-insertion sorting algorithm and benchmark its performance on different STL containers.
+[<img width="298" height="277" alt="image" src="https://github.com/user-attachments/assets/60c91e49-43bc-4d57-82fe-f452bd9fa869" align="left" />](https://github.com/Sylvfo/CPP09.git)
+
+*A collection of C++ exercises exploring advanced data manipulation and algorithmic logic.*
 
 **Languages & Tools:** C++98, STL (map, stack, deque, vector), Exception handling, I/O streams, Algorithms
 
 **Skills:** Algorithm design and optimization, data parsing, container manipulation, performance benchmarking, time complexity analysis
+
+<br clear="left">
 
 ### [Vintage Phonebook](https://github.com/Sylvfo/vintage_Phonebook)
 [<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/fdaddf2d-088d-4fd3-98bc-71a74b7096f8" align="left" />](https://github.com/Sylvfo/vintage_Phonebook)
