@@ -2,7 +2,7 @@
 
 ### [Vintage Phonebook](https://github.com/Sylvfo/vintage_Phonebook)
 
-<table>
+<table style="border: none; border-collapse: collapse;">
   <tr>
     <td width="150" style="border: none;">
       <a href="https://github.com/Sylvfo/vintage_Phonebook" target="_blank">
