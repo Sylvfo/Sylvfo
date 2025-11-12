@@ -8,11 +8,6 @@ Currently studying at 42 Lausanne <img width="96" height="54" alt="image" src="h
 
 I enjoy finding solutions, thinking through algorithms, creating project architecture and building databases.
 
-
-
-
-
-
 <img width="3193" height="1801" alt="image" src="https://github.com/user-attachments/assets/5580c250-7ac6-4e81-88b1-125440f1ec86" />
 *image from my project miniRT
 
