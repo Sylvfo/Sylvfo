@@ -24,7 +24,7 @@ C, C++, Software Architecture, Data Structure,  Memory Management, Process Manag
 
 **Skills:** Network programming, concurrency management, protocol implementation, configuration design
 <br clear="left">
-
+<br>
 ### [miniRT]() (coming soon)
 [<img width="150" height="150" alt="miniRT" src="https://github.com/user-attachments/assets/7c2698cc-f035-4d7b-9a48-459bca8012cc" align="left" />]()
 
@@ -44,7 +44,7 @@ C, C++, Software Architecture, Data Structure,  Memory Management, Process Manag
 
 **Skills:** Algorithm design and optimization, data parsing, container manipulation, performance benchmarking, time complexity analysis
 <br clear="left">
-
+<br>
 ### [vintage phonebook](https://github.com/Sylvfo/vintage_Phonebook)
 [<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/fdaddf2d-088d-4fd3-98bc-71a74b7096f8" align="left" />](https://github.com/Sylvfo/vintage_Phonebook)
 
@@ -54,7 +54,7 @@ C, C++, Software Architecture, Data Structure,  Memory Management, Process Manag
 
 **Skills:** Object-oriented design, encapsulation, input validation, data storage, formatted output
 <br clear="left">
-
+<br>
 ### [philosophers](https://github.com/Sylvfo/Philo)
 [<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/6c03d1f7-ac70-4d6f-ad83-54db9643a042" align="left" />](https://github.com/Sylvfo/Philo)
 
@@ -64,7 +64,7 @@ C, C++, Software Architecture, Data Structure,  Memory Management, Process Manag
 
 **Skills:** Multithreading, synchronization, concurrency control, debugging timing issues
 <br clear="left">
-
+<br>
 ### [fdf](https://github.com/Sylvfo/FDF_linux.git)
 [<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/777be574-d233-497e-b4d3-32e26f7cd3a6" align="left" />](https://github.com/Sylvfo/FDF_linux.git)
 
@@ -74,7 +74,7 @@ C, C++, Software Architecture, Data Structure,  Memory Management, Process Manag
 
 **Skills:** 2D/3D graphics, geometry, event handling, algorithm design
 <br clear="left">
-
+<br>
 ### [minishell](https://github.com/Sylvfo/minishell_final)
 [<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/befa07ce-437e-4601-8878-cf168edaccec" align="left" />](https://github.com/Sylvfo/minishell_final)
 
@@ -84,7 +84,7 @@ C, C++, Software Architecture, Data Structure,  Memory Management, Process Manag
 
 **Skills:** Shell design, process control, inter-process communication, signal handling, parsing user input
 <br clear="left">
-
+<br>
 <!--
 ### [push_swap]()
 *Sorting algorithm project: implement the most efficient sequence of stack operations to sort integers. Compares algorithmic performance and complexity*
