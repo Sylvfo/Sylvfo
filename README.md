@@ -1,28 +1,27 @@
 ### Hi there 🙃
 
 ### [Vintage Phonebook](https://github.com/Sylvfo/vintage_Phonebook)
-<table style="border: none; border-collapse: collapse;">
-  <tr>
-    <td style="border: none; padding-right: 15px; vertical-align: middle;">
-      <a href="https://github.com/Sylvfo/vintage_Phonebook" target="_blank">
-        <img 
-          src="https://github.com/user-attachments/assets/fdaddf2d-088d-4fd3-98bc-71a74b7096f8" 
-          alt="Vintage Phonebook"
-          width="138" height="138" 
-          style="border-radius: 15px; border: none;"
-        />
-      </a>
-    </td>
-    <td style="border: none; vertical-align: middle;">
+<div style="display: flex; align-items: center;">
 
-*A simple command-line contact manager implemented in C++, introducing classes, encapsulation, and basic I/O handling.*
+  <a href="https://github.com/Sylvfo/vintage_Phonebook" target="_blank" style="margin-right: 15px;">
+    <img 
+      src="https://github.com/user-attachments/assets/fdaddf2d-088d-4fd3-98bc-71a74b7096f8"
+      alt="Vintage Phonebook"
+      width="138"
+      height="138"
+      style="border-radius: 15px; border: none;"
+    />
+  </a>
 
-**Languages & Tools:** C++98, Classes, I/O streams, std::string  
-**Skills:** Object-oriented design, encapsulation, input validation, data storage, formatted output  
+  <div>
+  *A simple command-line contact manager implemented in C++, introducing classes, encapsulation, and basic I/O handling.*
 
-   </td>
-  </tr>
-</table>
+  **Languages & Tools:** C++98, Classes, I/O streams, std::string  
+  **Skills:** Object-oriented design, encapsulation, input validation, data storage, formatted output  
+
+  </div>
+
+</div>
 
 
 
