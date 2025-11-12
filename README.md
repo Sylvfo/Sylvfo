@@ -1,5 +1,24 @@
 ### Hi there 🙃
 
+<table>
+  <tr>
+    <td>
+      
+### [Vintage Phonebook](https://github.com/Sylvfo/vintage_Phonebook)
+*A simple command-line contact manager implemented in C++, introducing classes, encapsulation, and basic I/O handling.*
+
+**Languages & Tools:** C++98, Classes, I/O streams, std::string  
+**Skills:** Object-oriented design, encapsulation, input validation, data storage, formatted output  
+
+   </td>
+   <td align="right">
+     <a href="https://github.com/Sylvfo/vintage_Phonebook" target="_blank">
+       <img width="120" height="120" alt="Vintage Phonebook" src="https://github.com/user-attachments/assets/fdaddf2d-088d-4fd3-98bc-71a74b7096f8" />
+     </a>
+   </td>
+  </tr>
+</table>
+
 I'm Sylvie, a passionnate Project-Based Software Developer living in Switzerland!
 
 Having spent years as an interior designer, I've now transitioned into the thrilling, technical and surprisingly creative world of coding.
