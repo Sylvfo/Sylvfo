@@ -21,7 +21,7 @@ Currently in progress — updates coming soon
 
 C, C++, Software Architecture, Data Structure,  Memory Management, Process Management, Multi-threading, Graphic, math, HTML
 
-### [webserv](https://github.com/Sylvfo/webserv)
+### [webserv](https://github.com/Sylvfo/webserv) (pending)
 *A lightweight HTTP server built from scratch, handling multiple clients concurrently and supporting basic HTTP/1.1 features (GET, POST, DELETE). Includes configuration parsing, socket programming, and CGI handling.*
 
 **Languages & Tools:** C++, Sockets, Poll/Select, Networking, HTTP Protocol, Parsing, Multithreading, File I/O, html
