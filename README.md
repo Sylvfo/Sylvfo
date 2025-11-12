@@ -79,7 +79,7 @@ C, C++, Software Architecture, Data Structure,  Memory Management, Process Manag
 
 **Languages & Tools:** C, System calls (fork, execve, pipe, dup2), Signals, File descriptors, Parsing, Memory management
 
-**Skills:** Shell design, process control, inter-process communication, signal handling, dynamic memory management, parsing user input
+**Skills:** Shell design, process control, inter-process communication, signal handling, parsing user input
 
 <br clear="left">
 
