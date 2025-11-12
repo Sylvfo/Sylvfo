@@ -15,7 +15,7 @@ I enjoy finding solutions, thinking through algorithms, creating project archite
 
 C, C++, Software Architecture, Data Structure,  Memory Management, Process Management, Multi-threading, Graphic, math, HTML
 
-### [webserv](https://github.com/Sylvfo/webserv) (pending)
+### [webserv](https://github.com/Sylvfo/webserv) (work in progress)
 [<img width="150" height="150" alt="webserv" src="https://github.com/user-attachments/assets/2b344fce-22e7-4c55-9e9f-d24ff8631353" align="left" />](https://github.com/Sylvfo/webserv)
 
 *A lightweight HTTP server built from scratch, handling multiple clients concurrently and supporting basic HTTP/1.1 features (GET, POST, DELETE). Includes configuration parsing, socket programming, and CGI handling.*
@@ -25,14 +25,17 @@ C, C++, Software Architecture, Data Structure,  Memory Management, Process Manag
 **Skills:** Network programming, concurrency management, protocol implementation, configuration design
 <br clear="left">
 
-<!--
-### [miniRT]()
+
+### [miniRT]() (coming soon)
+[<img width="150" height="150" alt="miniRT" src="https://github.com/user-attachments/assets/7c2698cc-f035-4d7b-9a48-459bca8012cc" align="left" />]()
+
 *Program that reads a file containing terrain data and renders a 3D wireframe representation of that landscape in a graphical window on Linux*
 
 **Languages & Tools:** MiniLibX, Math (vectors, matrices, geometry), Parsing, Data structure, Optimisation
 
 **Skills:** 3D graphics, linear algebra, algorithmic optimization, parsing custom scene files
--->
+<br clear="left">
+
 
 ### [CPP09](https://github.com/Sylvfo/CPP09.git)
 [<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/60c91e49-43bc-4d57-82fe-f452bd9fa869" align="left" />](https://github.com/Sylvfo/CPP09.git)
