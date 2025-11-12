@@ -25,7 +25,6 @@ C, C++, Software Architecture, Data Structure,  Memory Management, Process Manag
 **Skills:** Network programming, concurrency management, protocol implementation, configuration design
 <br clear="left">
 
-
 ### [miniRT]() (coming soon)
 [<img width="150" height="150" alt="miniRT" src="https://github.com/user-attachments/assets/7c2698cc-f035-4d7b-9a48-459bca8012cc" align="left" />]()
 
@@ -35,8 +34,7 @@ C, C++, Software Architecture, Data Structure,  Memory Management, Process Manag
 
 **Skills:** 3D graphics, linear algebra, algorithmic optimization, parsing custom scene files
 <br clear="left">
-
-
+<br>
 ### [cpp09](https://github.com/Sylvfo/CPP09.git)
 [<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/60c91e49-43bc-4d57-82fe-f452bd9fa869" align="left" />](https://github.com/Sylvfo/CPP09.git)
 
