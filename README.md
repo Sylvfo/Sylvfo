@@ -1,3 +1,15 @@
+### [philo](https://github.com/Sylvfo/Philo)
+[<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/6c03d1f7-ac70-4d6f-ad83-54db9643a042" align="left" />](https://github.com/Sylvfo/Philo)
+
+*Simulation of the classical Dining Philosophers problem using threads and mutexes to prevent deadlocks and race conditions*
+
+**Languages & Tools:** C, Pthreads (mutex, thread management)
+
+**Skills:** Multithreading, synchronization, concurrency control, debugging timing issues
+
+<br clear="left">
+
+
 ### Hi there 🙃
 
 I'm Sylvie, a passionnate Project-Based Software Developer living in Switzerland!
