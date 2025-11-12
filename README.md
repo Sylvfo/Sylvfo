@@ -12,18 +12,18 @@ I enjoy finding solutions, thinking through algorithms, creating project archite
 *image from my project miniRT
 
 ## Projects and technical skills
-Currently in progress — updates coming soon
 
 C, C++, Software Architecture, Data Structure,  Memory Management, Process Management, Multi-threading, Graphic, math, HTML
 
 ### [webserv](https://github.com/Sylvfo/webserv) (pending)
-![WhatsApp Image 2025-11-12 à 22 48 15_5889026a](https://github.com/user-attachments/assets/2b344fce-22e7-4c55-9e9f-d24ff8631353)
+[<img width="150" height="150" alt="webserv" src="https://github.com/user-attachments/assets/2b344fce-22e7-4c55-9e9f-d24ff8631353" align="left" />](https://github.com/Sylvfo/webserv)
 
 *A lightweight HTTP server built from scratch, handling multiple clients concurrently and supporting basic HTTP/1.1 features (GET, POST, DELETE). Includes configuration parsing, socket programming, and CGI handling.*
 
 **Languages & Tools:** C++, Sockets, Poll/Select, Networking, HTTP Protocol, Parsing, Multithreading, File I/O, html
 
-**Skills:**  Network programming, concurrency management, protocol implementation, configuration design
+**Skills:** Network programming, concurrency management, protocol implementation, configuration design
+<br clear="left">
 
 <!--
 ### [miniRT]()
