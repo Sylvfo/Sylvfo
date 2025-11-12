@@ -1,5 +1,7 @@
 ### Hi there 🙃
 
+### [Vintage Phonebook](https://github.com/Sylvfo/vintage_Phonebook)
+
 <table>
   <tr>
     <td width="150" style="border: none;">
@@ -8,13 +10,12 @@
           src="https://github.com/user-attachments/assets/fdaddf2d-088d-4fd3-98bc-71a74b7096f8" 
           alt="Vintage Phonebook"
           width="138" height="138" 
-          style="border-radius: 15px; border: none;"
+          style="border-radius: 35px; border: none;"
         />
       </a>
     </td>
     <td style="border: none; vertical-align: middle;">
       
-### [Vintage Phonebook](https://github.com/Sylvfo/vintage_Phonebook)
 *A simple command-line contact manager implemented in C++, introducing classes, encapsulation, and basic I/O handling.*
 
 **Languages & Tools:** C++98, Classes, I/O streams, std::string  
