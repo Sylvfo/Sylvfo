@@ -33,7 +33,6 @@ C, C++, Software Architecture, Data Structure,  Memory Management, Process Manag
 -->
 
 ### [CPP09](https://github.com/Sylvfo/CPP09.git)
-
 [<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/60c91e49-43bc-4d57-82fe-f452bd9fa869" align="left" />](https://github.com/Sylvfo/CPP09.git)
 
 *A collection of C++ exercises exploring advanced data manipulation and algorithmic logic.*
@@ -41,7 +40,6 @@ C, C++, Software Architecture, Data Structure,  Memory Management, Process Manag
 **Languages & Tools:** C++98, STL (map, stack, deque, vector), Exception handling, I/O streams, Algorithms
 
 **Skills:** Algorithm design and optimization, data parsing, container manipulation, performance benchmarking, time complexity analysis
-
 <br clear="left">
 
 ### [Vintage Phonebook](https://github.com/Sylvfo/vintage_Phonebook)
@@ -52,7 +50,6 @@ C, C++, Software Architecture, Data Structure,  Memory Management, Process Manag
 **Languages & Tools:** C++98, Classes, I/O streams, std::string
 
 **Skills:** Object-oriented design, encapsulation, input validation, data storage, formatted output
-
 <br clear="left">
 
 ### [philo](https://github.com/Sylvfo/Philo)
@@ -63,15 +60,17 @@ C, C++, Software Architecture, Data Structure,  Memory Management, Process Manag
 **Languages & Tools:** C, Pthreads (mutex, thread management)
 
 **Skills:** Multithreading, synchronization, concurrency control, debugging timing issues
-
 <br clear="left">
 
 ### [fdf](https://github.com/Sylvfo/FDF_linux.git)
+[<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/777be574-d233-497e-b4d3-32e26f7cd3a6" align="left" />](https://github.com/Sylvfo/FDF_linux.git)
+
 *Program that reads a file containing terrain data and renders a 3D wireframe representation of that landscape in a graphical window on Linux*
 
 **Languages & Tools:** C, MiniLibX, Graphics rendering, Coordinate transformations, Linked lists
 
 **Skills:** 2D/3D graphics, geometry, event handling, algorithm design
+<br clear="left">
 
 ### [minishell](https://github.com/Sylvfo/minishell_final)
 [<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/befa07ce-437e-4601-8878-cf168edaccec" align="left" />](https://github.com/Sylvfo/minishell_final)
@@ -81,7 +80,6 @@ C, C++, Software Architecture, Data Structure,  Memory Management, Process Manag
 **Languages & Tools:** C, System calls (fork, execve, pipe, dup2), Signals, File descriptors, Parsing, Memory management
 
 **Skills:** Shell design, process control, inter-process communication, signal handling, parsing user input
-
 <br clear="left">
 
 <!--
