@@ -37,7 +37,7 @@ C, C++, Software Architecture, Data Structure,  Memory Management, Process Manag
 <br clear="left">
 
 
-### [CPP09](https://github.com/Sylvfo/CPP09.git)
+### [cpp09](https://github.com/Sylvfo/CPP09.git)
 [<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/60c91e49-43bc-4d57-82fe-f452bd9fa869" align="left" />](https://github.com/Sylvfo/CPP09.git)
 
 *A collection of C++ exercises exploring advanced data manipulation and algorithmic logic.*
@@ -47,7 +47,7 @@ C, C++, Software Architecture, Data Structure,  Memory Management, Process Manag
 **Skills:** Algorithm design and optimization, data parsing, container manipulation, performance benchmarking, time complexity analysis
 <br clear="left">
 
-### [Vintage Phonebook](https://github.com/Sylvfo/vintage_Phonebook)
+### [vintage phonebook](https://github.com/Sylvfo/vintage_Phonebook)
 [<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/fdaddf2d-088d-4fd3-98bc-71a74b7096f8" align="left" />](https://github.com/Sylvfo/vintage_Phonebook)
 
 *A simple command-line contact manager implemented in C++, introducing classes, encapsulation, and basic I/O handling.*
@@ -57,7 +57,7 @@ C, C++, Software Architecture, Data Structure,  Memory Management, Process Manag
 **Skills:** Object-oriented design, encapsulation, input validation, data storage, formatted output
 <br clear="left">
 
-### [philo](https://github.com/Sylvfo/Philo)
+### [philosophers](https://github.com/Sylvfo/Philo)
 [<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/6c03d1f7-ac70-4d6f-ad83-54db9643a042" align="left" />](https://github.com/Sylvfo/Philo)
 
 *Simulation of the classical Dining Philosophers problem using threads and mutexes to prevent deadlocks and race conditions*
