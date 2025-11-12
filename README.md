@@ -1,27 +1,18 @@
 ### Hi there 🙃
 
 ### [Vintage Phonebook](https://github.com/Sylvfo/vintage_Phonebook)
+
 <div style="display: flex; align-items: center;">
-
   <a href="https://github.com/Sylvfo/vintage_Phonebook" target="_blank" style="margin-right: 15px;">
-    <img 
-      src="https://github.com/user-attachments/assets/fdaddf2d-088d-4fd3-98bc-71a74b7096f8"
-      alt="Vintage Phonebook"
-      width="138"
-      height="138"
-      style="border-radius: 15px; border: none;"
-    />
+    <img src="https://github.com/user-attachments/assets/fdaddf2d-088d-4fd3-98bc-71a74b7096f8" alt="Vintage Phonebook" width="138" height="138" style="border-radius: 15px; border: none;"/>
   </a>
-
   <div>
-  *A simple command-line contact manager implemented in C++, introducing classes, encapsulation, and basic I/O handling.*
-
-  **Languages & Tools:** C++98, Classes, I/O streams, std::string  
-  **Skills:** Object-oriented design, encapsulation, input validation, data storage, formatted output  
-
+    <em>A simple command-line contact manager implemented in C++, introducing classes, encapsulation, and basic I/O handling.</em><br><br>
+    <strong>Languages & Tools:</strong> C++98, Classes, I/O streams, std::string<br>
+    <strong>Skills:</strong> Object-oriented design, encapsulation, input validation, data storage, formatted output
   </div>
-
 </div>
+
 
 
 
