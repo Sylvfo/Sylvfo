@@ -108,7 +108,7 @@ C, C++, Software Architecture, Data Structure,  Memory Management, Process Manag
 **Skills:** Low-level programming, memory handling, pointer manipulation, modular design
 -->
 
-## General skills
+## General skills inherited from interior design practice
 From creative concepts to technical implementation
 
 Delivering innovative solutions while respecting architectural and budgetary constraints
