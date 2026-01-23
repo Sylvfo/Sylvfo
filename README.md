@@ -25,7 +25,7 @@ C, C++, Software Architecture, Data Structure,  Memory Management, Process Manag
 **Skills:** Network programming, concurrency management, protocol implementation, configuration design
 <br clear="left">
 <br>
-### [miniRT]() (coming soon)
+### [miniRT](https://github.com/Sylvfo/miniRT_second_part)
 [<img width="150" height="150" alt="miniRT" src="https://github.com/user-attachments/assets/7c2698cc-f035-4d7b-9a48-459bca8012cc" align="left" />]()
 
 *Program that reads a file containing terrain data and renders a 3D wireframe representation of that landscape in a graphical window on Linux*
