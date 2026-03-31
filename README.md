@@ -15,7 +15,17 @@ I enjoy finding solutions, thinking through algorithms, creating project archite
 
 C, C++, Software Architecture, Data Structure,  Memory Management, Process Management, Multi-threading, Graphic, math, HTML
 
-### [webserv](https://github.com/Sylvfo/webserv) (work in progress)
+### [transcendence](https://github.com/LilBoooopp/transcendence/)
+
+*A real-time multiplayer chess platform built as a full-stack web application. Users can authenticate, manage friends, update their profile, and play or watch live matches with instant updates*
+
+**Languages & Tools:** TypeScript, React, Tailwind CSS, NestJS, PostgreSQL, Prisma, Socket.io, Docker, Nginx, JWT
+
+**Skills:** Full-stack architecture, real-time systems, API design, authentication & security, database modeling, frontend and backend development
+
+**Role:** Technical Lead – defined architecture, implemented core backend features, ensured code quality
+
+### [webserv](https://github.com/Sylvfo/webserv)
 [<img width="150" height="150" alt="webserv" src="https://github.com/user-attachments/assets/2b344fce-22e7-4c55-9e9f-d24ff8631353" align="left" />](https://github.com/Sylvfo/webserv)
 
 *A lightweight HTTP server built from scratch, handling multiple clients concurrently and supporting basic HTTP/1.1 features (GET, POST, DELETE). Includes configuration parsing, socket programming, and CGI handling.*
