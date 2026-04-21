@@ -15,7 +15,7 @@ I enjoy finding solutions, thinking through algorithms, creating project archite
 
 C, C++, Software Architecture, Data Structure,  Memory Management, Process Management, Multi-threading, Graphic, math, HTML
 
-### [transcendence](https://github.com/LilBoooopp/transcendence/)
+### [transcendance](https://github.com/LilBoooopp/transcendence/)
 
 *A real-time multiplayer chess platform built as a full-stack web application. Users can authenticate, manage friends, update their profile, and play or watch live matches with instant updates*
 
