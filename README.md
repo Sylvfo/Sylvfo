@@ -13,6 +13,8 @@ I enjoy finding solutions, thinking through algorithms, creating project archite
 
 ## Projects and technical skills
 
+Work in progress
+
 C, C++, Software Architecture, Data Structure, Memory Management, Process Management, Multi-threading, Graphic, math, HTML
 
 ### [MySentinelsCircles](https://github.com/Sylvfo/MySentinelCircle/)
