@@ -13,17 +13,15 @@ I enjoy finding solutions, thinking through algorithms, creating project archite
 
 ## Projects and technical skills
 
-C, C++, Software Architecture, Data Structure,  Memory Management, Process Management, Multi-threading, Graphic, math, HTML
+C, C++, Software Architecture, Data Structure, Memory Management, Process Management, Multi-threading, Graphic, math, HTML
 
-### [MySentinelsCircles]
+### [MySentinelsCircles](https://github.com/Sylvfo/MySentinelCircle/)
 
-### [transcendance](https://github.com/LilBoooopp/transcendence/)
+*A safety-net platform built to fight isolation: each person builds their own circle of trusted contacts — family, neighbors, friends — who can be alerted and mobilized in real time the moment something goes wrong, from a missed check-in to an accident.*
 
-*A real-time multiplayer chess platform built as a full-stack web application. Users can authenticate, manage friends, update their profile, and play or watch live matches with instant updates*
+**Languages & Tools:** TypeScript, NestJS, React, Prisma, MariaDB, WebSockets, REST APIs, JWT, Docker, Git, Claude Code
 
-**Languages & Tools:** TypeScript, React, Tailwind CSS, NestJS, PostgreSQL, Prisma, Socket.io, Docker, Nginx, JWT, Git
-
-**Skills:** Full-stack architecture, real-time systems, API design, authentication & security, database modeling, frontend and backend development, collaborative development (Git workflow)
+**Skills:** Software architecture, database modeling, access control design, real-time systems, spec-driven development, AI coding-agent orchestration
 
 ### [dslr] - Coming soon
 
