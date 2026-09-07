@@ -15,6 +15,24 @@ I enjoy finding solutions, thinking through algorithms, creating project archite
 
 C, C++, Software Architecture, Data Structure,  Memory Management, Process Management, Multi-threading, Graphic, math, HTML
 
+### [MySentinelsCircles]
+
+### [transcendance](https://github.com/LilBoooopp/transcendence/)
+
+*A real-time multiplayer chess platform built as a full-stack web application. Users can authenticate, manage friends, update their profile, and play or watch live matches with instant updates*
+
+**Languages & Tools:** TypeScript, React, Tailwind CSS, NestJS, PostgreSQL, Prisma, Socket.io, Docker, Nginx, JWT, Git
+
+**Skills:** Full-stack architecture, real-time systems, API design, authentication & security, database modeling, frontend and backend development, collaborative development (Git workflow)
+
+### [dslr] - Coming soon
+
+*A machine learning project implementing logistic regression from scratch. The project covers the full pipeline from raw CSV data to preprocessing, training, prediction and model evaluation.*
+
+**Languages & Tools:** Python, NumPy, CSV
+
+**Skills:** Data preprocessing, data analysis, feature selection, missing data handling, feature normalization, logistic regression, gradient descent, one-vs-rest classification, model evaluation
+
 ### [transcendance](https://github.com/LilBoooopp/transcendence/)
 
 *A real-time multiplayer chess platform built as a full-stack web application. Users can authenticate, manage friends, update their profile, and play or watch live matches with instant updates*
