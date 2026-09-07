@@ -11,13 +11,17 @@ I enjoy finding solutions, thinking through algorithms, creating project archite
 <img width="3193" height="1801" alt="image" src="https://github.com/user-attachments/assets/5580c250-7ac6-4e81-88b1-125440f1ec86" />
 *image from my project miniRT
 
-## Projects and technical skills
+## Languages & Technologies
 
-Work in progress
+C, C++, Python, TypeScript, React, NestJS, Prisma, MariaDB, PostgreSQL, Docker, Git
 
-C, C++, Software Architecture, Data Structure, Memory Management, Process Management, Multi-threading, Graphic, math, HTML
+## Technical Skills
+
+Software Architecture, Data Structures, Database Modeling, REST APIs, WebSockets, Authentication & Access Control, AI-Assisted Development, Machine Learning Fundamentals, Algorithms, Memory & Process Management, Multithreading, Networking, 2D/3D Graphics, Mathematics
 
 ### [MySentinelsCircles](https://github.com/Sylvfo/MySentinelCircle/)
+
+Work in progress
 
 *A safety-net platform built to fight isolation: each person builds their own circle of trusted contacts — family, neighbors, friends — who can be alerted and mobilized in real time the moment something goes wrong, from a missed check-in to an accident.*
 
