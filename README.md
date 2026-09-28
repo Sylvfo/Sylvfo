@@ -8,6 +8,8 @@ Completed the Common Core at 42 Lausanne <img width="96" height="54" alt="image"
 
 I enjoy finding solutions, thinking through algorithms, creating project architecture and building databases.
 
+I’m also very curious to explore how the rise of AI is transforming development, tools, and the way we use them, and I’m eager to contribute to this evolution from both a technical and human perspective.
+
 <img width="3193" height="1801" alt="image" src="https://github.com/user-attachments/assets/5580c250-7ac6-4e81-88b1-125440f1ec86" />
 *image from my project miniRT
 
