@@ -13,7 +13,7 @@ I enjoy finding solutions, thinking through algorithms, creating project archite
 
 ## Languages & Technologies
 
-C, C++, Python, TypeScript, React, NestJS, Prisma, MariaDB, PostgreSQL, Docker, Git
+Python, AI, C, C++, TypeScript, React, NestJS, Prisma, MariaDB, PostgreSQL, Docker, Git
 
 ## Technical Skills
 
