@@ -38,6 +38,8 @@ Work in progress
 **Skills:** Data preprocessing, data analysis, feature selection, missing data handling, feature normalization, logistic regression, gradient descent, one-vs-rest classification, model evaluation
 
 ### [transcendance](https://github.com/LilBoooopp/transcendence/)
+[<img width="150" height="150" alt="webserv" src="https://github.com/user-attachments/assets/39247315-4690-45b1-a2fe-ab4c8b69e689" align="left" />](https://github.com/Sylvfo/webserv)
+
 
 *A real-time multiplayer chess platform built as a full-stack web application. Users can authenticate, manage friends, update their profile, and play or watch live matches with instant updates*
 
