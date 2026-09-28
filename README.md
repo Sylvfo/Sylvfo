@@ -43,7 +43,7 @@ Work in progress
 
 *A real-time multiplayer chess platform built as a full-stack web application. Users can authenticate, manage friends, update their profile, and play or watch live matches with instant updates*
 
-**Languages & Tools:** TypeScript, React, Tailwind CSS, NestJS, PostgreSQL, Prisma, Socket.io, Docker, Nginx, JWT, Git
+**Languages & Tools:** TypeScript, React, Tailwind CSS, NestJS, Prisma, Socket.io, Docker, Nginx, JWT, Git
 
 **Skills:** Full-stack architecture, real-time systems, API design, authentication & security, database modeling, frontend and backend development, collaborative development (Git workflow)
 
