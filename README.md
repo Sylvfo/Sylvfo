@@ -32,8 +32,7 @@ Work in progress
 **Skills:** Software architecture, database modeling, access control design, real-time systems, spec-driven development, AI coding-agent orchestration
 
 ### [dslr](https://github.com/TheOrangeCake/advance42_dslr)
-
-[<img width="150" height="150" alt="dslr" src="https://github.com/user-attachments/assets/14c858ef-42ed-4bcc-947f-2a5d41cac04a" />
+[<img width="150" height="150" alt="dslr" src="[https://github.com/user-attachments/assets/39247315-4690-45b1-a2fe-ab4c8b69e689](https://github.com/user-attachments/assets/14c858ef-42ed-4bcc-947f-2a5d41cac04a)" align="left" />]([https://github.com/Sylvfo/webserv](https://github.com/TheOrangeCake/advance42_dslr))
 
 
 *A machine learning project implementing logistic regression from scratch. The project covers the full pipeline from raw CSV data to preprocessing, training, prediction and model evaluation.*
