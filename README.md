@@ -31,6 +31,7 @@ Work in progress
 
 **Skills:** Software architecture, database modeling, access control design, real-time systems, spec-driven development, AI coding-agent orchestration
 
+
 ### [dslr](https://github.com/TheOrangeCake/advance42_dslr)
 [<img width="150" height="150" alt="dslr" src="https://github.com/user-attachments/assets/c03f86ee-2325-4434-b086-cf0112bd693d" align="left" />](https://github.com/TheOrangeCake/advance42_dslr)
 
@@ -39,6 +40,7 @@ Work in progress
 **Languages & Tools:** Python, NumPy, CSV
 
 **Skills:** Data preprocessing, data analysis, feature selection, missing data handling, feature normalization, logistic regression, gradient descent, one-vs-rest classification, model evaluation
+
 
 
 ### [transcendance](https://github.com/LilBoooopp/transcendence/)
@@ -52,6 +54,7 @@ Work in progress
 **Skills:** Full-stack architecture, real-time systems, API design, authentication & security, database modeling, frontend and backend development, collaborative development (Git workflow)
 
 **Role:** Technical Lead – defined architecture, implemented core backend features, ensured code quality
+
 
 ### [webserv](https://github.com/Sylvfo/webserv)
 [<img width="150" height="150" alt="webserv" src="https://github.com/user-attachments/assets/2b344fce-22e7-4c55-9e9f-d24ff8631353" align="left" />](https://github.com/Sylvfo/webserv)
