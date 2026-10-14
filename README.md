@@ -40,6 +40,7 @@ Work in progress
 
 **Skills:** Data preprocessing, data analysis, feature selection, missing data handling, feature normalization, logistic regression, gradient descent, one-vs-rest classification, model evaluation
 
+
 ### [transcendance](https://github.com/LilBoooopp/transcendence/)
 [<img width="150" height="150" alt="webserv" src="https://github.com/user-attachments/assets/39247315-4690-45b1-a2fe-ab4c8b69e689" align="left" />](https://github.com/Sylvfo/webserv)
 
@@ -59,7 +60,7 @@ Work in progress
 
 **Languages & Tools:** C++, Sockets, Poll/Select, Networking, HTTP Protocol, Parsing, Multithreading, File I/O, html
 
-**Skills:** Network programming, concurrency management, protocol implementation, configuration design
+**Skills:** Network programming, concurrency management, protocol implementation, config design
 <br clear="left">
 <br>
 ### [miniRT](https://github.com/Sylvfo/miniRT_second_part)
