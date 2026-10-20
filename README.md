@@ -1,14 +1,14 @@
 ### Hi there 🙃
 
-I'm Sylvie, a passionate Project-Based Software Developer living in Switzerland!
+ ** I'm Sylvie, a software developer based in Switzerland! **
 
 Having spent years as an interior designer, I've now transitioned into the thrilling, technical and surprisingly creative world of coding.
 
-Completed the Common Core at 42 Lausanne <img width="96" height="54" alt="image" src="https://github.com/user-attachments/assets/e9c7ff3a-7adf-43ab-a86b-3d1caf116740" />
+** Completed the Common Core at 42 Lausanne ** <img width="96" height="54" alt="image" src="https://github.com/user-attachments/assets/e9c7ff3a-7adf-43ab-a86b-3d1caf116740" />
 
-I enjoy finding solutions, thinking through algorithms, creating project architecture and building databases.
+I enjoy designing software architecture, solving complex problems, and building applications from concept to implementation. My experience includes systems programming, full-stack development, and collaborative projects.
 
-I’m also very curious to explore how the rise of AI is transforming development, tools, and the way we use them, and I’m eager to contribute to this evolution from both a technical and human perspective.
+I'm particularly interested in how AI is transforming software development, tools, and everyday practices. I enjoy experimenting with LLMs and AI-assisted development, exploring their possibilities, limitations, and real-world value.
 
 <img width="3193" height="1801" alt="image" src="https://github.com/user-attachments/assets/5580c250-7ac6-4e81-88b1-125440f1ec86" />
 *image from my project miniRT
