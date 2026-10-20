@@ -67,13 +67,13 @@ Work in progress
 <br clear="left">
 <br>
 ### [miniRT](https://github.com/Sylvfo/miniRT_second_part)
-[<img width="150" height="150" alt="miniRT" src="https://github.com/user-attachments/assets/7c2698cc-f035-4d7b-9a48-459bca8012cc" align="left" />]()
+[<img width="150" height="150" alt="miniRT" src="https://github.com/user-attachments/assets/7c2698cc-f035-4d7b-9a48-459bca8012cc" align="left" />](https://github.com/Sylvfo/miniRT_second_part)
 
-*Program that reads a file containing terrain data and renders a 3D wireframe representation of that landscape in a graphical window on Linux*
+*A ray tracer written in C from scratch. It parses a scene file and renders 3D objects (spheres, planes, cylinders) with a camera, ambient and diffuse lighting, and hard shadows.*
 
-**Languages & Tools:** C, MiniLibX, Math (vectors, matrices, geometry), Parsing, Data structure, Optimisation
+**Languages & Tools:** C, MiniLibX, Math (vectors, matrices, ray–object intersections), Parsing custom scene files
 
-**Skills:** 3D graphics, linear algebra, algorithmic optimization, parsing custom scene files
+**Skills:** 3D rendering, linear algebra, lighting models, algorithmic optimization
 <br clear="left">
 <br>
 ### [cpp09](https://github.com/Sylvfo/CPP09.git)
