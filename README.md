@@ -43,7 +43,7 @@ Work in progress
 
 
 
-### [transcendance](https://github.com/LilBoooopp/transcendence/)
+### [transcendence](https://github.com/LilBoooopp/transcendence/)
 [<img width="150" height="150" alt="webserv" src="https://github.com/user-attachments/assets/39247315-4690-45b1-a2fe-ab4c8b69e689" align="left" />](https://github.com/LilBoooopp/transcendence/)
 
 
@@ -61,7 +61,7 @@ Work in progress
 
 *A lightweight HTTP server built from scratch, handling multiple clients concurrently and supporting basic HTTP/1.1 features (GET, POST, DELETE). Includes configuration parsing, socket programming, and CGI handling.*
 
-**Languages & Tools:** C++, Sockets, Poll/Select, Networking, HTTP Protocol, Parsing, Multithreading, File I/O, html
+**Languages & Tools:** C++, Sockets, Poll/Select, Networking, HTTP Protocol, Parsing, File I/O, html
 
 **Skills:** Network programming, concurrency management, protocol implementation, config design
 <br clear="left">
@@ -154,13 +154,13 @@ From creative concepts to technical implementation
 
 Delivering innovative solutions while respecting architectural and budgetary constraints
 
-Working effectively various disciplines teams and managing deadlines
+Working effectively in multidisciplinary teams and managing deadlines
 
 Client-oriented approach; leveraging existing tools and building custom solutions when required
 
 ## About me
 I enjoy being a human on this planet! 
-I love nature, friends, discover new stuff! 
+I love nature, friends, discover new things! 
 I like to play football, I love to sing! But my first passion is cooking.
 Living in a multi culti environment, I can speak fluently 4 languages. French, English, German and Italian. In case, I can also speak some Spanish. 
 
