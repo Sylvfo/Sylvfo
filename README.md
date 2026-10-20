@@ -1,6 +1,6 @@
 ### Hi there 🙃
 
-I'm Sylvie, a passionate Project-Based Software Developer living in Switzerland!
+I'm Sylvie, a passionnate Project-Based Software Developer living in Switzerland!
 
 Having spent years as an interior designer, I've now transitioned into the thrilling, technical and surprisingly creative world of coding.
 
@@ -44,7 +44,7 @@ Work in progress
 
 
 ### [transcendance](https://github.com/LilBoooopp/transcendence/)
-[<img width="150" height="150" alt="webserv" src="https://github.com/LilBoooopp/transcendence/" align="left" />](https://github.com/Sylvfo/webserv)
+[<img width="150" height="150" alt="webserv" src="https://github.com/user-attachments/assets/39247315-4690-45b1-a2fe-ab4c8b69e689" align="left" />](https://github.com/Sylvfo/webserv)
 
 
 *A real-time multiplayer chess platform built as a full-stack web application. Users can authenticate, manage friends, update their profile, and play or watch live matches with instant updates*
@@ -67,13 +67,13 @@ Work in progress
 <br clear="left">
 <br>
 ### [miniRT](https://github.com/Sylvfo/miniRT_second_part)
-[<img width="150" height="150" alt="miniRT" src="https://github.com/Sylvfo/miniRT_second_part" align="left" />]()
+[<img width="150" height="150" alt="miniRT" src="https://github.com/user-attachments/assets/7c2698cc-f035-4d7b-9a48-459bca8012cc" align="left" />]()
 
-*A ray tracer written in C from scratch. It parses a scene file and renders 3D objects (spheres, planes, cylinders, triangles, cones) with a camera, ambient and diffuse lighting, and hard shadows.*
+*Program that reads a file containing terrain data and renders a 3D wireframe representation of that landscape in a graphical window on Linux*
 
-**Languages & Tools:** C, MiniLibX, Math (vectors, matrices, ray–object intersections), Parsing custom scene files
+**Languages & Tools:** C, MiniLibX, Math (vectors, matrices, geometry), Parsing, Data structure, Optimisation
 
-**Skills:** 3D rendering, linear algebra, lighting models, algorithmic optimization
+**Skills:** 3D graphics, linear algebra, algorithmic optimization, parsing custom scene files
 <br clear="left">
 <br>
 ### [cpp09](https://github.com/Sylvfo/CPP09.git)
