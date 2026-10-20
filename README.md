@@ -1,10 +1,10 @@
 ### Hi there 🙃
 
- ** I'm Sylvie, a software developer based in Switzerland! **
+**I'm Sylvie, a software developer based in Switzerland!**
 
 Having spent years as an interior designer, I've now transitioned into the thrilling, technical and surprisingly creative world of coding.
 
-** Completed the Common Core at 42 Lausanne ** <img width="96" height="54" alt="image" src="https://github.com/user-attachments/assets/e9c7ff3a-7adf-43ab-a86b-3d1caf116740" />
+**Completed the Common Core at 42 Lausanne** <img width="96" height="54" alt="image" src="https://github.com/user-attachments/assets/e9c7ff3a-7adf-43ab-a86b-3d1caf116740" />
 
 I enjoy designing software architecture, solving complex problems, and building applications from concept to implementation. My experience includes systems programming, full-stack development, and collaborative projects.
 
