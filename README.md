@@ -1,6 +1,6 @@
 ### Hi there 🙃
 
-I'm Sylvie, a passionnate Project-Based Software Developer living in Switzerland!
+I'm Sylvie, a passionate Project-Based Software Developer living in Switzerland!
 
 Having spent years as an interior designer, I've now transitioned into the thrilling, technical and surprisingly creative world of coding.
 
@@ -44,7 +44,7 @@ Work in progress
 
 
 ### [transcendance](https://github.com/LilBoooopp/transcendence/)
-[<img width="150" height="150" alt="webserv" src="https://github.com/user-attachments/assets/39247315-4690-45b1-a2fe-ab4c8b69e689" align="left" />](https://github.com/Sylvfo/webserv)
+[<img width="150" height="150" alt="webserv" src="https://github.com/user-attachments/assets/39247315-4690-45b1-a2fe-ab4c8b69e689" align="left" />](https://github.com/LilBoooopp/transcendence/)
 
 
 *A real-time multiplayer chess platform built as a full-stack web application. Users can authenticate, manage friends, update their profile, and play or watch live matches with instant updates*
