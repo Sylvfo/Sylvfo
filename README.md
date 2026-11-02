@@ -25,6 +25,8 @@ Software Architecture, Data Structures, Database Modeling, REST APIs, WebSockets
 
 Work in progress
 
+[<img width="150" height="150" alt="sentinels" src="https://github.com/user-attachments/assets/c94d1ec0-0b35-4a8f-a5a3-c81f0d6f4369" />](https://github.com/Sylvfo/MySentinelCircle/)
+
 *A safety-net platform built to fight isolation: each person builds their own circle of trusted contacts — family, neighbors, friends — who can be alerted and mobilized in real time the moment something goes wrong, from a missed check-in to an accident.*
 
 **Languages & Tools:** TypeScript, NestJS, React, Prisma, MariaDB, WebSockets, REST APIs, JWT, Docker, Git, Claude Code
