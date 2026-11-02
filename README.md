@@ -21,10 +21,12 @@ Python, AI, C, C++, TypeScript, React, NestJS, Prisma, MariaDB, PostgreSQL, Dock
 
 Software Architecture, Data Structures, Database Modeling, REST APIs, WebSockets, Authentication & Access Control, AI-Assisted Development, Machine Learning Fundamentals, Algorithms, Memory & Process Management, Multithreading, Networking, 2D/3D Graphics, Mathematics
 
+## Projects
+
 ### [MySentinelsCircles](https://github.com/Sylvfo/MySentinelCircle/) Work in progress
 [<img width="150" height="150" alt="sentinels" src="https://github.com/user-attachments/assets/c94d1ec0-0b35-4a8f-a5a3-c81f0d6f4369" align="left" />](https://github.com/Sylvfo/MySentinelCircle/)
 
-* A real-time safety-net platform connecting people with trusted contacts to prevent isolation and provide support when it matters most *
+*A real-time safety-net platform connecting people with trusted contacts to prevent isolation and provide support when it matters most*
 
 **Languages & Tools:** Claude Code, Claude Design, Figma, TypeScript, NestJS, React, Prisma,Git
 
